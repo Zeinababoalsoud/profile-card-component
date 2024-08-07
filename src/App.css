@@ -1,0 +1,12 @@
+main{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(185, 75%, 39%);
+  width:100%;
+  height:100%;
+  background-image: url('../src/assets/images/bg-pattern-top.svg');
+  background-position: -300px -300px;
+  background-size: 800px;
+  background-repeat: no-repeat;
+}
